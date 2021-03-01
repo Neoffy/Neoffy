@@ -27,9 +27,9 @@ const fs = require('fs');
 
 \`\`\`js
 const Neoffy = {
-    description: " ",
+    description: "Uma raposa do deserto que evoluiu pra fazer coisas idiotas no mundo dos humanos.",
     favouriteLanguage: "Javascript/Typescript",
-    favouriteThings: [" "]
+    favouriteThings: ["Pure De Batata, HTML, Meu celular com 56kbps de Internet, a BudaRakun UwO"]
 }; //I'm a fox from desert. UwU
 \`\`\`
 <h2 align="left">Linguagems E Ferramentas:</h2>
