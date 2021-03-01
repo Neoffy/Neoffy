@@ -10,7 +10,7 @@
     
 <h1 align="center">Quem Sou Eu?</h1>
     
-## Ola, Sou Neoffy <img src="https://raw.githubusercontent.com/Neoffy/Neoffy/master/images/WaveIcon.gif" width="30px">
+## Ola, Sou Neoffy <img src="https://raw.githubusercontent.com/neoffy/Neoffy/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Neoffy = {
