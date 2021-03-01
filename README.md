@@ -10,7 +10,7 @@
     
 <h1 align="center">Quem Sou Eu?</h1>
     
-## Ola, Sou Neoffy <img src="https://raw.githubusercontent.com/neoffy/Neoffy/master/images/WaveIcon.gif" width="30px">
+## Ola, Sou Neoffy <img src="https://raw.githubusercontent.com/Neoffy/Neoffy/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Neoffy = {
@@ -33,5 +33,5 @@ const Neoffy = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neoffy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoffy&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoffy&theme=tokyonight">
 </details>
-<!-- Last updated on Mon Mar 01 2021 13:07:18 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Mar 01 2021 13:08:25 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 1st March 2021 using magic</i> ✨
