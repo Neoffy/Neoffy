@@ -33,5 +33,5 @@ const Neoffy = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neoffy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoffy&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoffy&theme=tokyonight">
 </details>
-<!-- Last updated on Wed Sep 29 2021 05:08:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 29th September 2021 using magic</i> ✨
+<!-- Last updated on Thu Sep 30 2021 05:08:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 30th September 2021 using magic</i> ✨
