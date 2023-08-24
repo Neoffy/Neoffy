@@ -26,12 +26,12 @@ const Neoffy = {
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Neoffy&theme=dracula"></div>
 
 ## Even More Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Neoffy&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-undefined-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-undefined-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Neoffy&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-0-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-0-blueviolet)
     
 <details>
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neoffy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoffy&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoffy&theme=tokyonight">
 </details>
-<!-- Last updated on Wed Aug 23 2023 05:08:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 23th August 2023 using magic</i> ✨
+<!-- Last updated on Thu Aug 24 2023 05:08:15 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 24th August 2023 using magic</i> ✨
